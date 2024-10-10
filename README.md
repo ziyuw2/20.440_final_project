@@ -1,5 +1,5 @@
 # Overview
-This repo contains the Ziyu Wang's contribution to the analyses done in Ziyu Wang and Andy Saiz's final project for 20.440 spring 2023.
+This repo contains Ziyu Wang's contribution to the analyses done in Ziyu Wang and Andy Saiz's final project for 20.440 spring 2023.
 
 The raw datasets of the Tanzanian and the Netherland population are available on: [Gitlab: Xavier-lab](https://gitlab.com/xavier-lab-computation/public/fg300tanzania)
 
